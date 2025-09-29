@@ -17,16 +17,14 @@ I love building intelligent systems that solve real-world problems in **AI Agent
 ## 🛠️ Tech Stack  
 **Languages & Tools:**  
 
-![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)
-![Streamlit](https://img.shields.io/badge/streamlit-v1.32+-red.svg)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-green)  
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-orange?logo=amazon-aws&logoColor=white)  
-![LLM](https://img.shields.io/badge/LLM-Generative_AI-purple)  
-![n8n](https://img.shields.io/badge/n8n-red) 
-![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-green)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-orange?logo=amazon-aws&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Generative_AI-purple)
+![n8n](https://img.shields.io/badge/n8n-red)
+![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=black)   
 
 ---
@@ -40,8 +38,8 @@ I love building intelligent systems that solve real-world problems in **AI Agent
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemangi-chhaya-484b031b7/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://github.com/hemangichhaya)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemangi-chhaya-484b031b7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://github.com/hemangichhaya)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:Hemangichhaya35@gmail.com)  
 
 ---
