@@ -19,7 +19,6 @@ I love building intelligent systems that solve real-world problems in **AI Agent
 
 ![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.32+-red.svg)
-![LangChain](https://img.shields.io/badge/langchain-latest-green.svg)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)  
