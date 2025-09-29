@@ -16,6 +16,11 @@ I love building intelligent systems that solve real-world problems in **AI Agent
 
 ## 🛠️ Tech Stack  
 **Languages & Tools:**  
+
+![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-v1.32+-red.svg)
+![LangChain](https://img.shields.io/badge/langchain-latest-green.svg)
+
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white)  
@@ -24,14 +29,7 @@ I love building intelligent systems that solve real-world problems in **AI Agent
 ![LLM](https://img.shields.io/badge/LLM-Generative_AI-purple)  
 ![n8n](https://img.shields.io/badge/n8n-red) 
 ![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=black)  
-
----
-
-## 📊 GitHub Stats  
-![Hemangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemangichhaya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangichhaya&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=hemangichhaya&theme=radical&border_radius=5)  
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=black)   
 
 ---
 
